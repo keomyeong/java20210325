@@ -1,4 +1,4 @@
-package p06.lecture.s060702;
+package p06.textbook.s060702;
 
 public class CarExample {
 	public static void main(String[] args) {
